@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+transformers>=4.28
+faiss-cpu>=1.7
+opencv-python>=4.5
+Pillow>=9.0
+numpy>=1.22
+scikit-learn>=1.0
+matplotlib>=3.5
+streamlit>=1.10
+tqdm>=4.62
+segment-anything-py>=1.0

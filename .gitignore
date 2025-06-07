@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+*.npy
+*.pt
+*.pth
+*.pkl
+*.log
+models/
+embeddings/
+outputs/
+data/shelves/
+venv/
